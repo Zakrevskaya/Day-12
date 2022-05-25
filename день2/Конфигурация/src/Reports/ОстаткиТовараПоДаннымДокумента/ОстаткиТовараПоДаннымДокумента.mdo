@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="32ebbe72-c4dd-418a-aa53-3aa1f8fb2866">
+  <producedTypes>
+    <objectType typeId="102f82a7-2505-4b35-a135-1571c3056c8d" valueTypeId="d3b31a66-5710-4e19-a77b-37afef68f5c5"/>
+    <managerType typeId="b5b349c1-3b39-4dc9-8676-aa9b107baa51" valueTypeId="55b86aaa-5fcb-4ffb-a206-98d0fd2cfe00"/>
+  </producedTypes>
+  <name>ОстаткиТовараПоДаннымДокумента</name>
+  <synonym>
+    <key>ru</key>
+    <value>Остатки товара по данным документа</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <templates uuid="3851f51c-ca59-4292-9b84-67550db10ef2">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
